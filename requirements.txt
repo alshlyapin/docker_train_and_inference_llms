@@ -1,0 +1,10 @@
+huggingface_hub
+tqdm
+openpyxl
+accelerate
+ipywidgets
+numpy
+pandas
+bitsandbytes
+peft
+datasets
